@@ -1,0 +1,11 @@
+.button {
+    color: #ffffff;
+	padding: 0.5rem;
+	margin-top: 0.5rem;
+	border-radius: 4px;
+	background-color: #000000;
+}
+
+.search-bar {
+	padding: 0 0 1rem 0;
+}
