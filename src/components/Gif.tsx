@@ -7,7 +7,7 @@ type GifProps = {
 };
 
 const Gif = ({ id, url, name }: GifProps) => (
-  <img id={id} style={{ maxHeight: '100%' }} src={url} alt={name} width="100%" />
+  <img id={id} src={url} alt={name} width="100%" />
 );
 
 export default Gif;
